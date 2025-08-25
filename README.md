@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @Ebai99
+# Hello, I'm called EBAI BARON ABI
+
 - 👀 I’m interested in everything concerning tech, from building cool and responsive web apps, to designing and building cool automatic systems or machines.
 - 🌱 I’m currently learning python, HTML/CSS, C/C++, Arduino
 - 💞️ I’m looking to collaborate on real life projects
 - 📫 How to reach me: ebaibaron99@gmail.com
 - 😄 Pronouns: HE
 - ⚡ Fun fact: Give it time...
-
-# Hello, I'm called EBAI BARON ABI
-### I’m interested in everything concerning tech, from building cool and responsive web apps, to designing and building cool automatic systems or machines.
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ebai99&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
 
